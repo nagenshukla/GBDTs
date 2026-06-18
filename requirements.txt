@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+pyarrow          # parquet caching of generated datasets
+scikit-learn
+matplotlib
+seaborn
+
+# Gradient Boosted Decision Trees
+xgboost>=3.0
+lightgbm>=4.0
+catboost>=1.2
+
+# Explainable Boosting Machine (glass-box GBDT) + SHAP
+interpret>=0.7
+shap>=0.50
+
+# Notebook runtime
+jupyterlab
+ipywidgets
+nbformat
