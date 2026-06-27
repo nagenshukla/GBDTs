@@ -24,7 +24,7 @@ sharper question than "what's the accuracy?":
 > **Did the model actually recover the signal we planted - and did it correctly
 > ignore the noise features?**
 
-That turns "interpretability" from hand-waving into something we can verify.
+That turns "interpretability" from guess work into something we can verify.
 
 ## Notebooks
 
